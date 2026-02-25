@@ -1,4 +1,7 @@
-# 💫 About Me:
+
+
+<img src="https://raw.githubusercontent.com/ania0/ania0/master/kyubey.gif" />
+
 <b>Computer Engineering Student | Applied Medicine | Data & ML Systems</b><br><br>I am a 3rd-year Computer Engineering student specializing in Applied Computer Engineering in Medicine. My background is rooted in rigorous software engineering—I've built everything from hardware integrations in C++ to multithreaded client-server applications in Java.<br><br><b>Why Data Engineering & Machine Learning?</b><br>While I love low-level system design, my true passion lies in healthcare technology and AI. Through my engineering thesis (developing an ML system for brain tumor classification), I began to realize that before AI can solve real-world problems, we need rock-solid, scalable data architectures. I am focusing my career on Data, ML and AI because it perfectly combines my love for complex system architecture, database design, and high-impact machine learning.<br><br><b>Tech Stack & Skills</b><br>Data & Backend: Python, Django, SQL, PostgreSQL, Pandas, NumPy<br>Core Engineering (OOP & Concurrency): Java, C++, C#, Multithreading, Algorithms<br>Systems & Low-Level: Assembly (x86 AT&T and '51), Bash, Linux, ESP-32 hardware integration
 
 
@@ -9,7 +12,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ania0&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ania0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ania0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
