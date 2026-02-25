@@ -1,4 +1,4 @@
-
+<img src="https://github.com/ania0/ania0/blob/master/output.gif" alt="Here is a little bit about me!">
 
 <img src="https://raw.githubusercontent.com/ania0/ania0/master/kyubey.gif" />
 
