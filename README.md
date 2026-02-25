@@ -12,10 +12,7 @@
 
 
 
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/ania0/ania0/github-contribution-grid-snake.svg" />
-	Gdzies tu jest ten obrazek
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/ania0/ania0/output/github-contribution-grid-snake-dark.svg">
