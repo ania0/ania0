@@ -11,7 +11,7 @@
 
 
 
-
+# Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -22,9 +22,4 @@
        src="https://raw.githubusercontent.com/ania0/ania0/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ania0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ania0&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ania0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
